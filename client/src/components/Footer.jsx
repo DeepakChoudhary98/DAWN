@@ -128,27 +128,27 @@ const Footer = () => {
             </List>
         </Center>
         <Right>
-            <ContactItem> <LocationOnIcon style={{marginRight:"10px"}}/>123 King Circle Street, Sion, Mumbai</ContactItem>
+            <ContactItem> <LocationOnIcon style={{marginRight:"10px"}}/>Vidyapati Chowk Kathalbari, Darbhanga</ContactItem>
             <ContactItem><PhoneIcon style={{marginRight:"10px"}}/>+91 123 456 7890</ContactItem>
-            <ContactItem><EmailIcon style={{marginRight:"10px"}}/>mr.nestles369@gmail.com</ContactItem>
+            <ContactItem><EmailIcon style={{marginRight:"10px"}}/>deepakchoudhary5960@gmail.com</ContactItem>
         </Right>
         </TopContainer>
         <SocialContainer>
-            <StyledLink to="https://www.instagram.com/traprnbking?igsh=bm5haTBoYzM3Ym91">
+            <StyledLink to="#">
             <SocialIcon><InstagramIcon style={{fontSize:"40px", color:"#E4405F"}}/></SocialIcon>
             </StyledLink>
-            <StyledLink to="https://twitter.com/guddixo">
+            <StyledLink to="#">
             <SocialIcon><XIcon style={{fontSize:"30px"}}/></SocialIcon>
             </StyledLink>
-            <StyledLink to="https://www.facebook.com/profile.php?id=61560621833060&mibextid=ZbWKwL">
+            <StyledLink to="#">
             <SocialIcon><FacebookIcon style={{fontSize:"40px", color: "	#1877F2"}}/></SocialIcon>
             </StyledLink>
-            <StyledLink to="https://www.linkedin.com/in/aditya-singh-0a1123239/">
+            <StyledLink to="https://www.linkedin.com/in/deepak-choudhary-500abb253/">
             <SocialIcon><LinkedInIcon style={{fontSize:"40px", color: "#E60023"}}/></SocialIcon>
             </StyledLink>
         </SocialContainer>
         <Logo>DAWN</Logo>
-        <Copyright>DAWN Mumbai, 123 King Circle Street, Sion , Mumbai. Copyright © DAWN (Mumbai) All rights reserved</Copyright>
+        <Copyright>DAWN Vidyapati Chowk Kathalbari, Darbhanga, Bihar 846004 Copyright © DAWN (Darbhange) All rights reserved</Copyright>
         <PaymentContainer>
         <Payment src="/payment2 (1).png"/>
         </PaymentContainer>
